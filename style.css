@@ -1,0 +1,57 @@
+body {
+    background-color: #393E46;
+    padding: 2% 12% ;
+}
+
+h1 {
+    text-align: center;
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 15rem;
+    color: #4ECCA3;
+}
+
+#ghost {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 27%;
+    margin-top: 300px;
+    cursor: pointer;
+}
+
+#ghost:hover {
+    box-shadow: 30px 40px 20px rgba(31, 31, 31, 0.75);
+}
+
+.para {
+    font-family: 'Indie Flower',
+        cursive;
+    color: white;
+    text-align: center;
+    margin: 300px;
+    font-size: 6rem;
+}
+
+.ghost1{
+    display: flex;
+    float: left;
+}
+
+
+.ghost2{
+    display: flex;
+    float: right;
+}
+
+.randomGhost {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 27%;
+    margin-top: 200px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
