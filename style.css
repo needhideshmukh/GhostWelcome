@@ -55,3 +55,13 @@ h1 {
     cursor: pointer;
 
 }
+
+.bigTitle{
+    position: relative;
+    font-size: 15rem;
+    color: #4ECCA3;
+        font-family: 'Lobster',
+        cursive;
+        text-shadow: 5px 0 #232931;
+text-align: center;
+}
